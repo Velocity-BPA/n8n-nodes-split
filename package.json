@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-split",
+  "name": "@velocity-bpa/n8n-nodes-split",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Split (by Harness) feature flag and experimentation platform providing 12 resources and 60+ operations for feature flag management, targeting rules, segments, metrics, audit logs, and rollout plans.",
   "license": "SEE LICENSE IN LICENSE.md",
